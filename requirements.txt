@@ -1,0 +1,6 @@
+netmiko
+paramiko==3.5.1
+pyyaml
+python-dotenv
+ntc-templates
+pytest

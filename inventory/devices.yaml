@@ -1,0 +1,9 @@
+devices:
+  - name: router-01
+    host: "192.0.2.10"
+    device_type: "cisco_ios"
+    username: "automation_user"
+  - name: router-02
+    device_type: cisco_ios
+    host: 192.0.2.11
+    username: admin
